@@ -1,9 +1,9 @@
 {
-  "name": "8-api",
+  "name": "9-api",
   "version": "1.0.0",
   "description": "A simple API for learning basic integration testing in NodeJS.",
   "main": "api.js",
-  "author": "emogyreunion",
+  "author": "Mark victor",
   "private": true,
   "license": "MIT",
   "scripts": {
@@ -25,7 +25,7 @@
   "bugs": {
     "url": "https://github.com/emogyreunion/alx-backend-javascript/issues"
   },
-  "homepage": "https://github.com/emogyreunion/alx-backend-javascript/tree/main/0x06-unittests_in_js/8-api",
+  "homepage": "https://github.com/emogyreunion/alx-backend-javascript/tree/main/0x06-unittests_in_js/9-api",
   "engines": {
     "node": "16.x",
     "npm": "8.x",
